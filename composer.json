@@ -1,0 +1,24 @@
+{
+    "name": "vitya-baranov/dating",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Viktor Baranov",
+            "email": "vitya.ak22071990@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.1"
+    }
+}
